@@ -1,15 +1,12 @@
 # Hi, I'm Lance 👋
 
-I'm a first-year Computing Science student at the University of Alberta interested in software development, cybersecurity, cloud technologies, and web development.
-
-I enjoy learning by building projects and applying what I learn to real-world problems.
+I'm a first year Computing Science student at the University of Alberta interested in software development, cybersecurity, cloud technologies, and web development.
 
 ## Current Focus
 
 - Strengthening my Python and software development skills
 - Learning cybersecurity and cloud technologies
 - Building and maintaining web projects
-- Improving my GitHub through clean, well-documented repositories
 
 ## Featured Projects
 
@@ -31,4 +28,4 @@ My portfolio showcasing projects, experience, certifications, and technical work
 ## Connect
 
 - Portfolio: https://www.lanceadhikari.com/
-- LinkedIn: [https://www.linkedin.com/in/lance-adhikari-b938a8306](https://www.linkedin.com/in/lance-adhikari/)
+- LinkedIn: https://www.linkedin.com/in/lance-adhikari/
